@@ -6,6 +6,7 @@ release = "2026.03"
 
 extensions = [
     "myst_parser",
+    "sphinx_copybutton",
 ]
 
 source_suffix = {
